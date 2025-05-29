@@ -1,0 +1,2 @@
+magic-pdf[full]
+huggingface_hub
